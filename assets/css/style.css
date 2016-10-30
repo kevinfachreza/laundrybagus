@@ -1,0 +1,157 @@
+@font-face {
+    font-family: Source Sans;
+    src: url(../fonts/SourceSansPro-Regular.ttf);
+}
+
+body {
+    font-family: Source Sans;
+}
+
+.navbar-default{
+	background-color: #ffffff;
+    border-color: #ffffff;
+    color: black;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #C93F3F;
+    color: white;
+} 
+
+#BukaUsaha{
+	background-image: url("../../desain-ruang-cuci-pakaian.jpg");	
+	text-align: center;
+	color: white;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	font-weight: bold;
+	font-size: 4em;
+}
+	
+#SiapaLB{
+	padding-top: 1em;
+	padding-bottom: 1em;
+	text-align: center;
+	font-weight: bold;
+	font-size: 2vw;
+}
+
+.content-SiapaLB{
+	margin-top: 0.5em;
+	font-size: 1.2vw;
+	padding-left: 18em;
+	padding-right: 20em;
+}
+
+.padding-0{
+	padding:0;
+}
+
+#KapanSaat{
+	padding-top: 1em;
+	padding-bottom: 1em;
+	text-align: center;
+	font-weight: bold;
+	font-size: 2vw;	
+	background-color: #E0D7D8;
+}
+
+#Sekarang{
+	text-align: center;
+	font-weight: bold;
+	font-size: 6vw;		
+}
+
+.content-KapanSaat{
+	margin-top: 0.5em;
+	font-size: 1.2vw;
+	padding-left: 20em;
+	padding-right: 20em;
+}
+
+#HanyaLB{
+	padding-top: 1em;
+	padding-bottom: 1em;
+	text-align: center;
+	font-weight: bold;
+	font-size: 2vw;	
+}
+
+#content-HanyaLB{
+	font-size: 1vw;
+	font-weight: normal;
+}
+
+.padding-lr{
+	padding-left: 10em;
+	padding-right: 10em;
+	margin-top: 1em;
+}
+
+.padding-rl{
+	padding-left: 5em;
+	padding-right: 5em;
+	margin-top: 1em;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.med{
+	font-size: 1.7vw;
+}
+
+#PaketLB{
+	padding-top: 1em;
+	padding-bottom: 2em;
+	text-align: left;
+	font-weight: bold;
+	font-size: 2vw;	
+	background-color: #D0DCD0;
+}
+
+.content-PaketLB{
+	background-image: url("../../mesincuci.jpg");	
+	font-size: 1.2vw;
+	text-align: center;
+	padding: 2em;
+	color: white;
+}
+
+.red{
+	background-color: red;
+}
+
+#MengapaLB{
+	padding-top: 1em;
+	padding-bottom: 1em;
+	text-align: center;
+	font-weight: bold;
+	font-size: 2vw;	
+	background-image: url("../../mesincuci.jpg");	
+	color: white;
+}
+
+.content-MengapaLB{
+	font-size: 1.2vw;
+	text-align: center;
+	padding-left: 10em;
+	padding-right: 10em;
+}
+
+#SiapLB{
+	font-size: 2vw;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+#ContactLB{
+	background-color: #FA2A2A;
+	font-size: 1.2vw;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	padding-left: 5em;
+}
