@@ -45,7 +45,7 @@ body {
 }
 
 .navbar-mode-1{
-	background-color:red;
+	background-color:#FA2A2A;
 	padding-right:50px;
 	padding-left:50px;
 }
@@ -78,33 +78,19 @@ body {
 #BukaUsaha{
 	background-image: linear-gradient( rgba(10, 10, 10, 0.7), rgba(20, 20, 20, 0.7) ), url("../img/header-image.jpg");	
     background-repeat: no-repeat;
-    background-size: 100% auto;
+    -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
 	background-position: 0% 30%;
 	/*background-repeat: no-repeat;*/
 	text-align: center;
 	color: white;
-	padding-top: 2em;
-	padding-bottom: 1em;
+	padding-top: 3em;
+	padding-bottom: 3em;
 	font-weight: bold;
 	font-size: 4em;
-	height:60vh;
 	line-height:1em;
-}
-
-@media (min-width:768px) and (max-width:992px)
-{
-		#BukaUsaha{
-		height:50vh;
-	}
-}
-
-@media (max-width:768px)
-{
-		#BukaUsaha{
-		background-size: auto 100%;
-		background-position: 30% 30%;
-		height:70vh;
-	}
 }
 
 

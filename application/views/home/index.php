@@ -1,48 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Bootstrap 101 Template</title>
-
-    <!-- Bootstrap -->
-    <link href="<?php echo base_url()?>assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="<?php echo base_url()?>assets/css/style.css" rel="stylesheet">
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+  
+	<?php echo $header ?>
+    <title>LaundryBagus - Usaha Laundry</title>
   </head>
   <body>
-    <nav class="nav navbar navbar-default navbar-fixed-top navbar-mode-2" id="navbar">
-      <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="#">HOME</a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="#">PAKET LAUNDRY <span class="sr-only">(current)</span></a></li>
-            <li><a href="#">CHEMICAL</a></li>
-            <li><a href="#">HUBUNGI KAMI</a></li>
-          </ul>
-        </div><!-- /.navbar-collapse -->
-      </div><!-- /.container-fluid -->
-    </nav>
-
+	
+	<?php echo $navbar ?>
+  
     <div id="BukaUsaha" class="container-fluid">
       <div class="header-maintext">Buka Usaha Laundry Itu<br>
       Gak Ribet</div>
@@ -140,54 +106,9 @@
     <div id="SiapLB" class="container-fluid">
       LAUNDRY BAGUS SIAP MELAYANI ANDA
     </div>
+	
+	<?php echo $footer ?>
 
-    <footer id="ContactLB" class="container-fluid bold">
-		<div class="footer-header">Hubungi Kami</div>
-		<div class="footer-list">
-			0856 4207 1199<br>
-			0852 9088 5711<br>
-			mesinlaundrysolo@gmail.com<br>
-			Jalan Kapten Mulyadi no 264 Solo
-		</div>
-    </footer>
-	<div class="col-md-12 footer-second text-center">
-		CopyRight - LaundryBagus
-	</div>
-
-	
-	
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="<?php echo base_url()?>assets/js/bootstrap.min.js"></script>
-	
-	<script>
-		$(document).ready(function(){       
-	   var scroll_start = 0;
-	   var startchange = $('.nav');
-	   var offset = startchange.offset();
-	   $(document).scroll(function() { 
-		  scroll_start = $(this).scrollTop();
-		  if(scroll_start > offset.top) {
-		   } else {
-		   }
-	   });
-	});
-	</script>
-
-	<script type="text/javascript">
-        $(window).scroll(function() {
-            var x = $(window).scrollTop();
-            if (x == 0) {
-			  $('#navbar').removeClass('navbar-mode-1').addClass('navbar-mode-2');
-            } else {
-			  $('#navbar').removeClass('navbar-mode-2').addClass('navbar-mode-1');
-            }
-        });
-    </script>
-
-	
-	
   </body>
 </html>
 

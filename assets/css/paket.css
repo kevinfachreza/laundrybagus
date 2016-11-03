@@ -1,0 +1,133 @@
+
+
+
+#PaketHeader{
+	background-image: linear-gradient( rgba(10, 10, 10, 0.7), rgba(20, 20, 20, 0.7) ), url("../img/header-image.jpg");	
+    background-repeat: no-repeat;
+   -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+	background-position: 0% 30%;
+	/*background-repeat: no-repeat;*/
+	text-align: center;
+	color: white;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	font-weight: bold;
+	font-size: 4em;
+	line-height:1em;
+}
+
+
+.container-LB
+{
+	padding-bottom:5em;
+	padding-top:5em;
+	text-align:center;
+}
+
+#PaketSubHeader{
+	background-image: linear-gradient( rgba(10, 10, 10, 0.7), rgba(20, 20, 20, 0.7) ), url("../img/header-image.jpg");	
+    background-repeat: no-repeat;
+   -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+	background-position: 0% 30%;
+	/*background-repeat: no-repeat;*/
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	line-height:1em;
+}
+
+#PaketSubHeader .content{
+	font-size:3em;
+	line-height:1em;
+	text-transform:capitalize;
+}
+
+#JenisPaket
+{
+	
+}
+
+#JenisPaket-Extra .intro
+{
+	font-family: Source Sans Light;
+	font-size:1.2em;
+	padding-left:2em;
+	padding-right:2em;
+	margin-bottom:2em;
+}
+
+#JenisPaket .header-LB, #JenisPaket-Extra .header-LB
+{
+	font-size:2em;
+	text-transform:capitalize;
+	margin-bottom:1em;
+}
+
+.extra-info {
+	font-size:1.2em;
+	font-weight:bold;
+	margin-bottom:2em;
+	border:solid 1px #ccc;
+	padding-top:2em;
+	padding-bottom:2em;
+}
+
+.caption-info
+{
+	font-size:0.8em;
+	font-weight:300;
+}
+
+.extra-info-item
+{
+	margin-bottom:0.5em;
+}
+
+.extra-info-item-header{
+	font-size:1.5em;
+	margin-bottom:0.5em;
+}
+
+.extra-info-belum
+{
+	margin-bottom:2em;
+	border:solid 1px #ccc;
+	padding-top:2em;
+	padding-bottom:2em;
+	text-align:center;
+	text-transform:uppercase;
+	letter-spacing:0.1em;
+}
+
+.JenisPaket-Item
+{
+	background-color:#FA2A2A;
+	color:white;
+	margin-bottom:2em;
+	border:solid 1px #ccc;
+	padding-top:2em;
+	padding-bottom:2em;
+}
+
+.jenis-header
+{
+	font-size:2em;
+}
+
+.jenis-harga
+{
+	font-size:1.5em;
+	margin-bottom:0.5em;
+}
+
+.jenis-content
+{
+	font-size:1.2em;
+	margin-bottom:0.5em;
+}
