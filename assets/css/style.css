@@ -58,22 +58,38 @@ body {
 	color:white;
 }
 
-@media (max-width:768px)
-{
-	.navbar-mode-2,.navbar-mode-1
-	{
-		background-color:white;
-		padding-right:50px;
-		padding-left:50px;
-	}
-	
-	.navbar-mode-2 .navbar-nav li>a,
-	.navbar-mode-1 .navbar-nav li>a {
-		color:black;
-	}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{
+	background-color:#c82121;
+	color:white;
 }
 
+.navbar-brand
+{
+	padding:13px 13px;
+}
 
+.navbar-brand img{
+	height:100%;
+}
+
+.dropdown-menu
+{
+	background-color:#FA2A2A;
+	color:white;
+	border-radius:0;
+	border:none;
+}
+
+.dropdown-menu>li>a:hover{
+	background-color:#c82121;
+	color:white;
+}
+
+@media (max-width: 767px){
+.navbar-default .navbar-nav .open .dropdown-menu>li>a {
+    color: white;
+}
+}
 
 #BukaUsaha{
 	background-image: linear-gradient( rgba(10, 10, 10, 0.7), rgba(20, 20, 20, 0.7) ), url("../img/header-image.jpg");	

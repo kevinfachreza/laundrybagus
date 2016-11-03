@@ -7,14 +7,21 @@
 		<span class="icon-bar"></span>
 		<span class="icon-bar"></span>
 	  </button>
-	  <a class="navbar-brand" href="#">HOME</a>
+	  <a class="navbar-brand" href="<?php echo base_url()?>"><img alt="laundrybagus" src="<?php echo base_url()?>assets/img/logo-model-2.png"></a>
 	</div>
 
 	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="#">PAKET LAUNDRY <span class="sr-only">(current)</span></a></li>
-		<li><a href="#">CHEMICAL</a></li>
-		<li><a href="#">HUBUNGI KAMI</a></li>
+		<li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PAKET LAUNDRY <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="<?php echo base_url()?>paket/rumah">RUMAHAN</a></li>
+            <li><a href="<?php echo base_url()?>paket/ruko">RUKO</a></li>
+            <li><a href="<?php echo base_url()?>paket/outlet">OUTLET</a></li>
+          </ul>
+        </li>
+		<li><a href="<?php echo base_url()?>chemical">CHEMICAL</a></li>
+		<li><a href="<?php echo base_url()?>contactus">HUBUNGI KAMI</a></li>
 	  </ul>
 	</div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
