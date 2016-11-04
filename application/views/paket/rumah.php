@@ -37,7 +37,7 @@
 			Laundry Kiloan, setrika kiloan dan bisa menerima beberapa laundry satuan
 		</div>
 		<div class="col-md-8 col-md-offset-2">
-			<div class="col-md-4 ">
+			<div class="col-md-4">
 				<div class="col-md-12 JenisPaket-Item">
 					<div class="jenis-header">
 						Paket 1

@@ -1,0 +1,65 @@
+/*Chemical*/
+
+#ChemicalLaundry{
+	background-image: linear-gradient( rgba(10, 10, 10, 0.7), rgba(20, 20, 20, 0.7) ), url("../img/header-image.jpg");	
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+	background-position: 0% 30%;
+	/*background-repeat: no-repeat;*/
+	text-align: center;
+	color: white;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	font-weight: bold;
+	font-size: 4em;
+	line-height:1em;
+}
+
+#PaketSubHeader{
+	background-image: linear-gradient( rgba(10, 10, 10, 0.7), rgba(20, 20, 20, 0.7) ), url("../img/chemlaundry.jpg");	
+    background-repeat: no-repeat;
+   -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+	background-position: 0% 30%;
+	/*background-repeat: no-repeat;*/
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	color: white;
+	font-weight: bold;
+	font-size: 3em;
+	line-height:1em;
+}
+
+#Define-CL{
+	text-align: center;
+	padding-top: 4em;
+	padding-bottom: 4em;
+}
+
+#ChemType{
+	text-align: center;
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
+
+.chem-types{
+	border: solid 1px #ccc;
+	height: 225px;
+	margin-bottom: 1.2em;
+}
+
+.content-CT{
+	margin-top: 1.2em;
+}
+
+.CT-Col-Header{
+	font-weight: bold;
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
