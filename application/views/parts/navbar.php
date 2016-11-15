@@ -20,6 +20,7 @@
             <li><a href="<?php echo base_url()?>paket/outlet">OUTLET</a></li>
           </ul>
         </li>
+        <li><a href="<?php echo base_url()?>galeri">GALERI</a></li>
 		<li><a href="<?php echo base_url()?>chemical">CHEMICAL</a></li>
 		<li><a href="<?php echo base_url()?>contactus">HUBUNGI KAMI</a></li>
 	  </ul>
