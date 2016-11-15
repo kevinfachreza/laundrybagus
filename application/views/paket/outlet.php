@@ -47,13 +47,20 @@
 						Paket 1
 					</div>
 					<div class="jenis-harga">
-						Rp 12.900.000
+						Rp 36.900.000
 					</div>
 					<div class="jenis-content">
-						1 Unit Washer FL 6 Kg<br>
-						1 Unit boiler 1 Setrika<br>
-						1 Unit hair Dryer<br>
-						1 Meja Setrika boiler<br>
+						1 Unit Washer FL 7 Kg<br>
+						1 Unit Washer TL 9 kg<br>
+						1 Unit boiler 2 Setrika<br>
+						1 Dryer Built Up 10kg<br>
+						2 Meja setrika boiler<br>
+						1 Unit vacuum cleaner<br>
+						1 Unit garmen steamer<br>
+						1 Unit spotting gun<br>
+						1 Rak laundry kiloan<br>
+						1 Gantungan baju satuan<br>
+						1 Meja kasir standard<br>
 					</div>
 					</div>
 			</div>
@@ -63,13 +70,20 @@
 						Paket 1
 					</div>
 					<div class="jenis-harga">
-						Rp 12.900.000
+						Rp 26.900.000
 					</div>
 					<div class="jenis-content">
-						1 Unit Washer FL 6 Kg<br>
-						1 Unit boiler 1 Setrika<br>
-						1 Unit hair Dryer<br>
-						1 Meja Setrika boiler<br>
+						1 Unit washer FL 6 kg<br>
+						1 Unit washer TL 8 kg<br>
+						1 Unit boiler 2 Setrika<br>
+						1 Dryer konversi 6 kg<br>
+						2 Meja setrika boiler<br>
+						1 Unit garmen steamer<br>
+						1 Unit spotting gun<br>
+						1 Rak laundry kiloan<br>
+						1 Gantungan baju satuan<br>
+						1 Meja kasir standard<br>
+						<br>
 					</div>
 					</div>
 			</div>

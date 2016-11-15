@@ -68,21 +68,30 @@
 		Paket Franchise LaundryBagus
       </div>
       <div id="content-PaketLB" class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
+	  
+        <a href="<?php echo base_url()?>paket/ruko">
         <div class="col-md-4 col-sm-4">
-			<div class="PaketLB-Col-Image"><img src="http://bukalaundry.co/images/paket/rumahan.png"></div>
+			<div class="PaketLB-Col-Image text-center"><img src="<?php echo base_url()?>assets/img/icon_konsep_Ruko.png"></div>
 			<div class="PaketLB-Col-Header">KONSEP RUKO<br></div>
 			<div class="PaketLB-Col-Content">Cicilan 0% dan berbagai kemudahan lainnya dapat anda dapatkan hanya di laundry bagus</div>
         </div>
-        <div class="col-md-4 col-sm-4">
-			<div class="PaketLB-Col-Image"><img src="http://bukalaundry.co/images/paket/rumahan.png"></div>
+		</a>
+		
+        <a href="<?php echo base_url()?>paket/rumah">
+		<div class="col-md-4 col-sm-4">
+			<div class="PaketLB-Col-Image text-center"><img src="<?php echo base_url()?>assets/img/icon_konsep_Rumahan.png"></div>
 			<div class="PaketLB-Col-Header">KONSEP RUMAHAN</div>
 			<div class="PaketLB-Col-Content">Tidak perlu repot repot mengurusi pengiriman ke tempat usaha anda karena akan kami bantu untuk pengurusan barang </div>
         </div>
+		</a>
+		
+        <a href="<?php echo base_url()?>paket/outlet">
         <div class="col-md-4 col-sm-4">
-			<div class="PaketLB-Col-Image"><img src="http://bukalaundry.co/images/paket/rumahan.png"></div>
+			<div class="PaketLB-Col-Image text-center"><img src="<?php echo base_url()?>assets/img/icon_konsep_outlet.png"></div>
 			<div class="PaketLB-Col-Header">KONSEP OUTLET</div>
 			<div class="PaketLB-Col-Content">Dengan kualitas mesin laundry yang sangat baik tentu saja akan membuat bisnis anda akan menjadi baik pula</div>
         </div>
+		</a>
       </div>
     </div>
 
@@ -96,9 +105,9 @@
         Kita harus tahu apakah deterjen itu membuat pakaian menjadi kusam atau
         mampu menjaga kecemerlangan warna kain untuk menjaga kualitas hasil cucian laundry.
         <div class="content-LB-button">
-          <button type="button" class="btn btn-primary red" data-toggle="button" aria-pressed="false" autocomplete="off">
+          <a class="btn btn-primary red" href="<?php echo base_url()?>chemical">
             INFO LEBIH LANJUT
-          </button>
+		  </a>
         </div>
       </div> 
     </div>

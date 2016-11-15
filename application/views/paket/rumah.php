@@ -56,15 +56,15 @@
 			<div class="col-md-4 ">
 				<div class="col-md-12 JenisPaket-Item">
 					<div class="jenis-header">
-						Paket 1
+						Paket 2
 					</div>
 					<div class="jenis-harga">
-						Rp 12.900.000
+						Rp 15.350.000
 					</div>
 					<div class="jenis-content">
 						1 Unit Washer FL 6 Kg<br>
 						1 Unit boiler 1 Setrika<br>
-						1 Unit hair Dryer<br>
+						1 Unit washer TT 14 kg<br>
 						1 Meja Setrika boiler<br>
 					</div>
 					</div>
@@ -72,15 +72,15 @@
 			<div class="col-md-4 ">
 				<div class="col-md-12 JenisPaket-Item">
 					<div class="jenis-header">
-						Paket 1
+						Paket 3
 					</div>
 					<div class="jenis-harga">
-						Rp 12.900.000
+						Rp 18.150.000
 					</div>
 					<div class="jenis-content">
 						1 Unit Washer FL 6 Kg<br>
 						1 Unit boiler 1 Setrika<br>
-						1 Unit hair Dryer<br>
+						1 Unit dryer konversi 6 kg<br>
 						1 Meja Setrika boiler<br>
 					</div>
 					</div>

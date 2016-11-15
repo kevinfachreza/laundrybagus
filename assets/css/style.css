@@ -27,6 +27,16 @@ body {
     font-family: Source Sans;
 }
 
+a
+{
+	color:inherit;
+}
+
+a:hover
+{
+	color:#c82121;
+}
+
 .navbar-default{
 	background-color: transparent;
     color: black;
@@ -224,6 +234,7 @@ body {
 
 .PaketLB-Col-Image
 {
+	height:200px;
 	padding:10px;
 }
 
@@ -276,7 +287,13 @@ body {
 	padding-top: 5.5em;
 	padding-bottom: 5em;
 	text-align: center;
-	background-image: linear-gradient( rgba(10, 10, 10, 0.7), rgba(20, 20, 20, 0.7) ),  url("../../mesincuci.jpg");	
+	background-image: linear-gradient( rgba(10, 10, 10, 0.7), rgba(20, 20, 20, 0.7) ),  url("../img/chemlaundry.jpg");		
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+	background-position: 0% 30%;
 	color: white;
 }
 
