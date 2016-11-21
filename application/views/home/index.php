@@ -105,7 +105,7 @@
         Kita harus tahu apakah deterjen itu membuat pakaian menjadi kusam atau
         mampu menjaga kecemerlangan warna kain untuk menjaga kualitas hasil cucian laundry.
         <div class="content-LB-button">
-          <a class="btn btn-primary red" href="<?php echo base_url()?>chemical">
+          <a class="btn btn-lg" href="<?php echo base_url()?>chemical">
             INFO LEBIH LANJUT
 		  </a>
         </div>
