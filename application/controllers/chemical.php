@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class chemical extends CI_Controller {
+class Chemical extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
