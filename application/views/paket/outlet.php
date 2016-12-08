@@ -67,7 +67,7 @@
 			<div class="col-md-6 ">
 				<div class="col-md-12 JenisPaket-Item">
 					<div class="jenis-header">
-						Paket 1
+						Paket 2
 					</div>
 					<div class="jenis-harga">
 						Rp 26.900.000

@@ -7,7 +7,7 @@
 		<span class="icon-bar"></span>
 		<span class="icon-bar"></span>
 	  </button>
-	  <a class="navbar-brand" href="<?php echo base_url()?>"><img alt="laundrybagus" src="<?php echo base_url()?>assets/img/logo-model-2.png"></a>
+	  <a class="navbar-brand" href="<?php echo base_url()?>"><img alt="laundrybagus" src="<?php echo base_url()?>assets/img/logofix.png"></a>
 	</div>
 
 	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
