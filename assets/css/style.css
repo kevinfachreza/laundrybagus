@@ -55,7 +55,7 @@ a:hover
 }
 
 .navbar-mode-1{
-	background-color:#FA2A2A;
+	background-color:#B22222;
 	padding-right:50px;
 	padding-left:50px;
 }
@@ -345,11 +345,16 @@ footer
 	color:white;
 }
 
-.btn-primary
+.btn-lg
 {
 	border:none;
-	background-color:red;
+	background-color:#B22222;
 	border-color:red;
+}
+
+.btn-lg:hover{
+	color: white;
+	background-color: #CD5C5C;
 }
 
 .btn-primary:hover
