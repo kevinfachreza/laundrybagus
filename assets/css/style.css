@@ -303,12 +303,29 @@ a:hover
 }
 
 #SiapLB{
-    font-family: Source Sans Light;
-	font-size: 2em;
-	letter-spacing:0.3em;
+  
 	text-align: center;
 	padding-top: 2em;
 	padding-bottom: 2em;
+}
+
+.SiapLB-header{
+	font-family: Source Sans Light;
+	font-size: 2em;
+	letter-spacing:0.3em;
+}
+
+.ProsesLB{
+	margin-top: 5em;
+}
+
+.ProsesLB-header{
+	font-size: 1.6em;
+	font-weight: bold;
+}
+
+.ProsesLB-content{
+	font-size: 1.2em;
 }
 
 .left{

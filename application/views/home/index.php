@@ -113,7 +113,49 @@
     </div>
 
     <div id="SiapLB" class="container-fluid">
-      LAUNDRY BAGUS SIAP MELAYANI ANDA
+      <div class="SiapLB-header">LAUNDRY BAGUS SIAP MELAYANI ANDA</div>
+      <div class="ProsesLB col-md-10 col-md-offset-1">
+        <div class="col-md-4 SubProsesLB">
+          <div class="ProsesLB-header">1. Tentukan Lokasi</div>
+          <div class="ProsesLB-content">Bisa menggunakan rumah sendiri atau sewa tempat berbentuk rumah, kios atau ruko.</div>
+        </div>
+        <div class="col-md-4 SubProsesLB">
+          <div class="ProsesLB-header">2. Kontak Kami</div>
+          <div class="ProsesLB-content">Konsultasikan ke kami tentang keinginan Anda sejelas jelasnya.</div>
+        </div>
+        <div class="col-md-4 SubProsesLB">
+          <div class="ProsesLB-header">3. Penawaran Paket</div>
+          <div class="ProsesLB-content">Kami akan mengirimi Anda penawaran via Email paket laundry non waralaba.</div>
+        </div>
+      </div>
+      <div class="ProsesLB col-md-10 col-md-offset-1">
+        <div class="col-md-4 SubProsesLB">
+          <div class="ProsesLB-header">4. Commitment Fee</div>
+          <div class="ProsesLB-content">Menentukan jadwal survey lokasi.</div>
+        </div>
+        <div class="col-md-4 SubProsesLB">
+          <div class="ProsesLB-header">5. Survey Lokasi</div>
+          <div class="ProsesLB-content">Konsultasi pra opening dan survey lokasi.</div>
+        </div>
+        <div class="col-md-4 SubProsesLB">
+          <div class="ProsesLB-header">6. Tentukan Opening</div>
+          <div class="ProsesLB-content">Menentukan tanggal opening laundry muka.</div>
+        </div>
+      </div>
+      <div class="ProsesLB col-md-10 col-md-offset-1">
+        <div class="col-md-4 SubProsesLB">
+          <div class="ProsesLB-header">7. Pengadaan Barang</div>
+          <div class="ProsesLB-content">Kami menyiapkan isi paket, Anda menyiapkan tempat.</div>
+        </div>
+        <div class="col-md-4 SubProsesLB">
+          <div class="ProsesLB-header">8. Opening</div>
+          <div class="ProsesLB-content">Training karyawan saat opening laundry.</div>
+        </div>
+        <div class="col-md-4 SubProsesLB">
+          <div class="ProsesLB-header">9. Konsultasi Gratis After Opening</div>
+          <div class="ProsesLB-content">Anda bisa kapan saja menghubungi kami.</div>
+        </div>
+      </div>
     </div>
 	
 	<?php echo $footer ?>
