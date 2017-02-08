@@ -17,46 +17,64 @@
     <div class="container-fluid barisan-foto">
       <div class="col-md-12 col-sm-12 baris-foto">
         <div class="col-md-3 container-foto">
-          <a data-toggle="modal" href="#myModal" data-path="icon_konsep_Ruko.png">
-            <img class="foto" src="<?php echo base_url()?>assets/img/icon_konsep_Ruko.png">
+          <a data-toggle="modal" href="#myModal" data-path="IMG_1.jpg">
+            <img class="foto" src="<?php echo base_url()?>assets/img/IMG_1.jpg">
           </a>
         </div>
         <div class="col-md-3 container-foto">
-          <a data-toggle="modal" href="#myModal" data-path="icon_konsep_outlet.png">
-            <img class="foto" src="<?php echo base_url()?>assets/img/icon_konsep_outlet.png">
+          <a data-toggle="modal" href="#myModal" data-path="IMG_2.jpg">
+            <img class="foto" src="<?php echo base_url()?>assets/img/IMG_2.jpg">
           </a>
         </div>
         <div class="col-md-3 container-foto">
-          <a data-toggle="modal" href="#myModal" data-path="icon_konsep_Rumahan.png">
-            <img class="foto" src="<?php echo base_url()?>assets/img/icon_konsep_Rumahan.png">
+          <a data-toggle="modal" href="#myModal" data-path="IMG_3.jpg">
+            <img class="foto" src="<?php echo base_url()?>assets/img/IMG_3.jpg">
           </a>
         </div>
         <div class="col-md-3 container-foto">
-          <a data-toggle="modal" href="#myModal" data-path="icon_konsep_Rumahan.png">
-            <img class="foto" src="<?php echo base_url()?>assets/img/icon_konsep_Rumahan.png">
+          <a data-toggle="modal" href="#myModal" data-path="IMG_4.jpg">
+            <img class="foto" src="<?php echo base_url()?>assets/img/IMG_4.jpg">
           </a>
         </div>
       </div>
 
-      <div class="col-md-12 col-sm-12 baris-foto">
+    	<div class="col-md-12 col-sm-12 baris-foto">
         <div class="col-md-3 container-foto">
-          <a data-toggle="modal" href="#myModal" data-path="chemlaundry.jpg">
-            <img class="foto" src="<?php echo base_url()?>assets/img/chemlaundry.jpg">
+          <a data-toggle="modal" href="#myModal" data-path="IMG_5.jpg">
+            <img class="foto" src="<?php echo base_url()?>assets/img/IMG_5.jpg">
           </a>
         </div>
         <div class="col-md-3 container-foto">
-          <a data-toggle="modal" href="#myModal" data-path="header-image.jpg">
-            <img class="foto" src="<?php echo base_url()?>assets/img/header-image.jpg">
+          <a data-toggle="modal" href="#myModal" data-path="IMG_6.jpg">
+            <img class="foto" src="<?php echo base_url()?>assets/img/IMG_6.jpg">
           </a>
         </div>
         <div class="col-md-3 container-foto">
-          <a data-toggle="modal" href="#myModal" data-path="sekarang.jpg">
-            <img class="foto" src="<?php echo base_url()?>assets/img/sekarang.jpg">
+          <a data-toggle="modal" href="#myModal" data-path="IMG_7.jpg">
+            <img class="foto" src="<?php echo base_url()?>assets/img/IMG_7.jpg">
           </a>
         </div>
         <div class="col-md-3 container-foto">
-          <a data-toggle="modal" href="#myModal" data-path="chemlaundry.jpg">
-            <img class="foto" src="<?php echo base_url()?>assets/img/chemlaundry.jpg">
+          <a data-toggle="modal" href="#myModal" data-path="IMG_8.jpg">
+            <img class="foto" src="<?php echo base_url()?>assets/img/IMG_8.jpg">
+          </a>
+        </div>
+      </div>
+
+    	<div class="col-md-12 col-sm-12 baris-foto">
+        <div class="col-md-3 container-foto">
+          <a data-toggle="modal" href="#myModal" data-path="IMG_9.jpg">
+            <img class="foto" src="<?php echo base_url()?>assets/img/IMG_9.jpg">
+          </a>
+        </div>
+        <div class="col-md-3 container-foto">
+          <a data-toggle="modal" href="#myModal" data-path="IMG_10.jpg">
+            <img class="foto" src="<?php echo base_url()?>assets/img/IMG_10.jpg">
+          </a>
+        </div>
+        <div class="col-md-3 container-foto">
+          <a data-toggle="modal" href="#myModal" data-path="IMG_11.jpg">
+            <img class="foto" src="<?php echo base_url()?>assets/img/IMG_11.jpg">
           </a>
         </div>
       </div>

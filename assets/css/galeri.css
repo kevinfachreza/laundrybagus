@@ -28,7 +28,7 @@
 .container-foto{
 	height: 20em;
 	text-align: center;
-	padding: initial;
+	padding: 5px;
 	overflow: hidden;
 }
 
