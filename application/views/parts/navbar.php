@@ -21,6 +21,7 @@
           </ul>
         </li>
         <li><a href="<?php echo base_url()?>galeri">GALERI</a></li>
+        <li><a href="<?php echo base_url()?>testimoni">TESTIMONI</a></li>
 		<li><a href="<?php echo base_url()?>chemical">CHEMICAL</a></li>
 		<li><a href="<?php echo base_url()?>contactus">HUBUNGI KAMI</a></li>
 	  </ul>

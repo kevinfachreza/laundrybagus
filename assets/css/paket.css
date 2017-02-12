@@ -78,6 +78,11 @@
 	padding-bottom:2em;
 }
 
+.testi-item
+{
+	font-weight: 300;
+}
+
 .caption-info
 {
 	font-size:0.8em;
@@ -130,4 +135,11 @@
 {
 	font-size:1.2em;
 	margin-bottom:0.5em;
+}
+
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
 }
